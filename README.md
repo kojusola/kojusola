@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Adeola, I'm a frontend Developer
+
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=kojusola&show_icons=true&theme=radical&hide=stars)](https://github.com/kojusola)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kojusola" alt="yczar" /></p>
+
+- 🔭 I’m currently creating interactive experiences using modern Web technology
+- 🌱 I’m currently learning animations and exploring the decentralized web
+- 👯 I’m looking to collaborate on all sort of interesting things
+- 🤔 I’m looking for help with interesting things
+- 📫 How to reach me: [Adeola](https://twitter.com/FafemiAdeola)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love learning new things
+
+### Get in touch with me...
+
+[<img src='https://cdn-icons-png.flaticon.com/512/281/281786.png' width='32' title='Email Me!'>](adeola5678@gmail.com)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='32' title='DM Me!'>](https://twitter.com/FafemiAdeola)
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Message Me!'>](https://www.linkedin.com/in/adeolafafemi/)
+
