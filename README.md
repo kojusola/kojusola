@@ -22,8 +22,8 @@ My name is Adeola, I'm a frontend Developer
 
 - 🔭 I’m currently creating interactive experiences using modern web technology
 - 🌱 I’m currently learning animations and exploring the decentralized web
-- 👯 I’m looking to collaborate on all sort of interesting things
-- 🤔 I’m looking for help with interesting things
+- 👯 I’m looking to collaborate on all sort of amazing things
+- 🤔 I’m looking for help with being a better developer
 - 📫 How to reach me: [Adeola](https://twitter.com/FafemiAdeola)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning new things
