@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Adeola, I'm a frontend Developer
+My name is Adeola, I'm a Software Developer
 
 [![Kojusola's github stats](https://github-readme-stats.vercel.app/api?username=kojusola&show_icons=true&theme=radical&hide=stars)](https://github.com/kojusola)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kojusola" alt="yczar" /></p>
 
